@@ -1,3 +1,4 @@
+adjustText                1.2.0
 anyio==4.4.0
 appnope==0.1.4
 argon2-cffi==23.1.0
